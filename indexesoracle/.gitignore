@@ -1,0 +1,19 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+.vscode
+compiled-types
+coverage/
+coverage.json
+
+deployments/localhost
+deployments/hardhat
+Flattened.sol
+*solcx-*
+deploy.txt
+
+.env
+gasReport.md
+*.log

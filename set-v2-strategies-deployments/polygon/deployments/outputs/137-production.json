@@ -1,0 +1,8 @@
+{
+  "state": {
+    "network_key": "137-production",
+    "human_friendly_name": "polygon-mainnet-production",
+    "network_id": 137,
+    "last_deployment_stage": 0
+  }
+}

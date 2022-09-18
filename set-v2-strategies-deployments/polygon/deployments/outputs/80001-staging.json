@@ -1,0 +1,8 @@
+{
+  "state": {
+    "network_key": "80001-staging",
+    "human_friendly_name": "polygon-mumbai-staging",
+    "network_id": 80001,
+    "last_deployment_stage": 0
+  }
+}
